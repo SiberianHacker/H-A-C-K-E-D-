@@ -1,0 +1,1 @@
+http://89.105.155.148:8888/cgi-bin/camera?resolution=1920&quality=0&page=1683969059760&Language=13
